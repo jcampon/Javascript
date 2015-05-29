@@ -1,3 +1,34 @@
+﻿
+/* ======================================================================================================================  
+    STUFF FROM http://javascriptissexy.com/javascript-objects-in-detail/
+
+====================================================================================================================== */
+
+// The primitive data type String is stored as a value​ here
+
+var tallDudeName = "LeBron";
+var anotherTallDude = tallDudeName;
+tallDudeName = "James";
+console.log("anotherTallDude = " + anotherTallDude); // LeBron
+console.log("tallDudeName = " + tallDudeName);       // James
+
+// The object data is stored as a reference here
+
+var person = { name: "Kobe" };
+var anotherPerson = person;
+person.name = "Bryant";
+console.log("anotherPerson = " + anotherPerson.name); // Kobe​
+console.log("person = " + person.name); // Bryant
+
+
+/* ======================================================================================================================  
+ STUFF DERIVED FROM 
+	 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/10/all-about-javascript-functions.aspx
+ AND http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/04/14/11-things-about-javascript-functions-that-net-developers-should-know-part-2.aspx
+
+====================================================================================================================== */
+
+
 function Student(name, age) {
     this.name = name;
     this.age = age;
