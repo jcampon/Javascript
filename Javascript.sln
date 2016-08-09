@@ -1,15 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stuff", "Stuff", "{98E2EB86-C26C-4FEF-934F-95391B25CBCE}"
-	ProjectSection(SolutionItems) = preProject
-		Basic Javascript\javascript_test.html = Basic Javascript\javascript_test.html
-		Basic Javascript\javascript_test.js = Basic Javascript\javascript_test.js
-	EndProjectSection
-EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Basic Javascript(1)", "http://localhost:2741", "{A1E69B0F-45D5-46D7-911E-C895BB87BFFE}"
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Basic Javascript", "http://localhost:2741", "{A1E69B0F-45D5-46D7-911E-C895BB87BFFE}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
@@ -31,6 +23,198 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Basic Javascript(1)", "http
 		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jQuery Samples", "jQuery Samples", "{A379869A-C93B-4CEB-B602-F699B3988AAE}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\001.html = jQuerySamples\001.html
+		jQuerySamples\002.html = jQuerySamples\002.html
+		jQuerySamples\003.html = jQuerySamples\003.html
+		jQuerySamples\004.html = jQuerySamples\004.html
+		jQuerySamples\005.html = jQuerySamples\005.html
+		jQuerySamples\006.html = jQuerySamples\006.html
+		jQuerySamples\007.html = jQuerySamples\007.html
+		jQuerySamples\008.html = jQuerySamples\008.html
+		jQuerySamples\009.html = jQuerySamples\009.html
+		jQuerySamples\010.html = jQuerySamples\010.html
+		jQuerySamples\011.html = jQuerySamples\011.html
+		jQuerySamples\011_framed.html = jQuerySamples\011_framed.html
+		jQuerySamples\012.html = jQuerySamples\012.html
+		jQuerySamples\013.html = jQuerySamples\013.html
+		jQuerySamples\014.html = jQuerySamples\014.html
+		jQuerySamples\015.html = jQuerySamples\015.html
+		jQuerySamples\016.html = jQuerySamples\016.html
+		jQuerySamples\017.html = jQuerySamples\017.html
+		jQuerySamples\018.html = jQuerySamples\018.html
+		jQuerySamples\019.html = jQuerySamples\019.html
+		jQuerySamples\020.html = jQuerySamples\020.html
+		jQuerySamples\021.html = jQuerySamples\021.html
+		jQuerySamples\022.html = jQuerySamples\022.html
+		jQuerySamples\023.html = jQuerySamples\023.html
+		jQuerySamples\024.html = jQuerySamples\024.html
+		jQuerySamples\025.html = jQuerySamples\025.html
+		jQuerySamples\026.html = jQuerySamples\026.html
+		jQuerySamples\027.html = jQuerySamples\027.html
+		jQuerySamples\028.html = jQuerySamples\028.html
+		jQuerySamples\029.html = jQuerySamples\029.html
+		jQuerySamples\030.html = jQuerySamples\030.html
+		jQuerySamples\031.html = jQuerySamples\031.html
+		jQuerySamples\032.html = jQuerySamples\032.html
+		jQuerySamples\033.html = jQuerySamples\033.html
+		jQuerySamples\034.html = jQuerySamples\034.html
+		jQuerySamples\035.html = jQuerySamples\035.html
+		jQuerySamples\036.html = jQuerySamples\036.html
+		jQuerySamples\037.html = jQuerySamples\037.html
+		jQuerySamples\038.html = jQuerySamples\038.html
+		jQuerySamples\039.html = jQuerySamples\039.html
+		jQuerySamples\040.html = jQuerySamples\040.html
+		jQuerySamples\041.html = jQuerySamples\041.html
+		jQuerySamples\042.html = jQuerySamples\042.html
+		jQuerySamples\043.html = jQuerySamples\043.html
+		jQuerySamples\044.html = jQuerySamples\044.html
+		jQuerySamples\045.html = jQuerySamples\045.html
+		jQuerySamples\046.html = jQuerySamples\046.html
+		jQuerySamples\047.html = jQuerySamples\047.html
+		jQuerySamples\048.html = jQuerySamples\048.html
+		jQuerySamples\049.html = jQuerySamples\049.html
+		jQuerySamples\050.html = jQuerySamples\050.html
+		jQuerySamples\051.html = jQuerySamples\051.html
+		jQuerySamples\052.html = jQuerySamples\052.html
+		jQuerySamples\053.html = jQuerySamples\053.html
+		jQuerySamples\054.html = jQuerySamples\054.html
+		jQuerySamples\055.html = jQuerySamples\055.html
+		jQuerySamples\056.html = jQuerySamples\056.html
+		jQuerySamples\057.html = jQuerySamples\057.html
+		jQuerySamples\058.html = jQuerySamples\058.html
+		jQuerySamples\059.html = jQuerySamples\059.html
+		jQuerySamples\060.html = jQuerySamples\060.html
+		jQuerySamples\061.html = jQuerySamples\061.html
+		jQuerySamples\062.html = jQuerySamples\062.html
+		jQuerySamples\063.html = jQuerySamples\063.html
+		jQuerySamples\064.html = jQuerySamples\064.html
+		jQuerySamples\065.html = jQuerySamples\065.html
+		jQuerySamples\066.html = jQuerySamples\066.html
+		jQuerySamples\067.html = jQuerySamples\067.html
+		jQuerySamples\068.html = jQuerySamples\068.html
+		jQuerySamples\069.html = jQuerySamples\069.html
+		jQuerySamples\070.html = jQuerySamples\070.html
+		jQuerySamples\071.html = jQuerySamples\071.html
+		jQuerySamples\072.html = jQuerySamples\072.html
+		jQuerySamples\073.html = jQuerySamples\073.html
+		jQuerySamples\074.html = jQuerySamples\074.html
+		jQuerySamples\075.html = jQuerySamples\075.html
+		jQuerySamples\076.html = jQuerySamples\076.html
+		jQuerySamples\077.html = jQuerySamples\077.html
+		jQuerySamples\078.html = jQuerySamples\078.html
+		jQuerySamples\079.html = jQuerySamples\079.html
+		jQuerySamples\080.html = jQuerySamples\080.html
+		jQuerySamples\081.html = jQuerySamples\081.html
+		jQuerySamples\082.html = jQuerySamples\082.html
+		jQuerySamples\083.html = jQuerySamples\083.html
+		jQuerySamples\084.html = jQuerySamples\084.html
+		jQuerySamples\085.html = jQuerySamples\085.html
+		jQuerySamples\086.html = jQuerySamples\086.html
+		jQuerySamples\087.html = jQuerySamples\087.html
+		jQuerySamples\088.html = jQuerySamples\088.html
+		jQuerySamples\089.html = jQuerySamples\089.html
+		jQuerySamples\090.html = jQuerySamples\090.html
+		jQuerySamples\091.html = jQuerySamples\091.html
+		jQuerySamples\092.html = jQuerySamples\092.html
+		jQuerySamples\093.html = jQuerySamples\093.html
+		jQuerySamples\094.html = jQuerySamples\094.html
+		jQuerySamples\095.html = jQuerySamples\095.html
+		jQuerySamples\096.html = jQuerySamples\096.html
+		jQuerySamples\097.html = jQuerySamples\097.html
+		jQuerySamples\098.html = jQuerySamples\098.html
+		jQuerySamples\099.html = jQuerySamples\099.html
+		jQuerySamples\100.html = jQuerySamples\100.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{38276900-3096-496A-951C-1815ADBD0B21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{E1D33BCA-8994-492C-955C-A7746F6A1BBF}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\css\alertify.core.css = jQuerySamples\assets\css\alertify.core.css
+		jQuerySamples\assets\css\alertify.default.css = jQuerySamples\assets\css\alertify.default.css
+		jQuerySamples\assets\css\pickadate.01.default.css = jQuerySamples\assets\css\pickadate.01.default.css
+		jQuerySamples\assets\css\styles.css = jQuerySamples\assets\css\styles.css
+		jQuerySamples\assets\css\styles.css~ = jQuerySamples\assets\css\styles.css~
+		jQuerySamples\assets\css\xcharts.css = jQuerySamples\assets\css\xcharts.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{48232D1D-A154-4851-9656-C4A008A2CFEC}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\img\arrows.jpg = jQuerySamples\assets\img\arrows.jpg
+		jQuerySamples\assets\img\ball.png = jQuerySamples\assets\img\ball.png
+		jQuerySamples\assets\img\external.png = jQuerySamples\assets\img\external.png
+		jQuerySamples\assets\img\favicon.ico = jQuerySamples\assets\img\favicon.ico
+		jQuerySamples\assets\img\Katy_Perry.jpg = jQuerySamples\assets\img\Katy_Perry.jpg
+		jQuerySamples\assets\img\preloader.gif = jQuerySamples\assets\img\preloader.gif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5C64D77C-395A-486A-B524-C60C1A8572E4}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\js\alertify.js = jQuerySamples\assets\js\alertify.js
+		jQuerySamples\assets\js\bigscreen.min.js = jQuerySamples\assets\js\bigscreen.min.js
+		jQuerySamples\assets\js\blur.js = jQuerySamples\assets\js\blur.js
+		jQuerySamples\assets\js\class.js = jQuerySamples\assets\js\class.js
+		jQuerySamples\assets\js\db.js = jQuerySamples\assets\js\db.js
+		jQuerySamples\assets\js\filereader.js = jQuerySamples\assets\js\filereader.js
+		jQuerySamples\assets\js\fittext.js = jQuerySamples\assets\js\fittext.js
+		jQuerySamples\assets\js\getUserMedia.js = jQuerySamples\assets\js\getUserMedia.js
+		jQuerySamples\assets\js\jquery.animate-enhanced.js = jQuerySamples\assets\js\jquery.animate-enhanced.js
+		jQuerySamples\assets\js\jquery.color.js = jQuerySamples\assets\js\jquery.color.js
+		jQuerySamples\assets\js\jquery.cookie.js = jQuerySamples\assets\js\jquery.cookie.js
+		jQuerySamples\assets\js\jquery.facedetection.js = jQuerySamples\assets\js\jquery.facedetection.js
+		jQuerySamples\assets\js\jquery.history.js = jQuerySamples\assets\js\jquery.history.js
+		jQuerySamples\assets\js\jquery.jrumble.1.3.min.js = jQuerySamples\assets\js\jquery.jrumble.1.3.min.js
+		jQuerySamples\assets\js\jquery.knob.js = jQuerySamples\assets\js\jquery.knob.js
+		jQuerySamples\assets\js\jquery.maskedinput.js = jQuerySamples\assets\js\jquery.maskedinput.js
+		jQuerySamples\assets\js\jquery.qrcode-0.2.min.js = jQuerySamples\assets\js\jquery.qrcode-0.2.min.js
+		jQuerySamples\assets\js\jquery.retina.js = jQuerySamples\assets\js\jquery.retina.js
+		jQuerySamples\assets\js\jquery.worker.js = jQuerySamples\assets\js\jquery.worker.js
+		jQuerySamples\assets\js\keymaster.js = jQuerySamples\assets\js\keymaster.js
+		jQuerySamples\assets\js\markdown.js = jQuerySamples\assets\js\markdown.js
+		jQuerySamples\assets\js\modernizr.custom.js = jQuerySamples\assets\js\modernizr.custom.js
+		jQuerySamples\assets\js\money.js = jQuerySamples\assets\js\money.js
+		jQuerySamples\assets\js\mustache.js = jQuerySamples\assets\js\mustache.js
+		jQuerySamples\assets\js\okvideo.js = jQuerySamples\assets\js\okvideo.js
+		jQuerySamples\assets\js\pickadate.min.js = jQuerySamples\assets\js\pickadate.min.js
+		jQuerySamples\assets\js\script.js = jQuerySamples\assets\js\script.js
+		jQuerySamples\assets\js\tinycon.js = jQuerySamples\assets\js\tinycon.js
+		jQuerySamples\assets\js\validate.js = jQuerySamples\assets\js\validate.js
+		jQuerySamples\assets\js\xcharts.min.js = jQuerySamples\assets\js\xcharts.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{6E81D955-0F2C-4DE7-92F2-4ED66BDBD923}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\misc\1.html = jQuerySamples\assets\misc\1.html
+		jQuerySamples\assets\misc\1.json = jQuerySamples\assets\misc\1.json
+		jQuerySamples\assets\misc\1.txt = jQuerySamples\assets\misc\1.txt
+		jQuerySamples\assets\misc\2.json = jQuerySamples\assets\misc\2.json
+		jQuerySamples\assets\misc\include.js = jQuerySamples\assets\misc\include.js
+		jQuerySamples\assets\misc\rates.json = jQuerySamples\assets\misc\rates.json
+		jQuerySamples\assets\misc\worker.js = jQuerySamples\assets\misc\worker.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "php", "php", "{F20CFA13-BCC1-4FBC-8FEF-21D567A2F29E}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\php\upload.php = jQuerySamples\assets\php\upload.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chosen", "chosen", "{CC571967-37D7-458D-A482-4FA4BD690EA0}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\js\chosen\chosen-sprite.png = jQuerySamples\assets\js\chosen\chosen-sprite.png
+		jQuerySamples\assets\js\chosen\chosen-sprite@2x.png = jQuerySamples\assets\js\chosen\chosen-sprite@2x.png
+		jQuerySamples\assets\js\chosen\chosen.css = jQuerySamples\assets\js\chosen\chosen.css
+		jQuerySamples\assets\js\chosen\chosen.jquery.min.js = jQuerySamples\assets\js\chosen\chosen.jquery.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "facedetection", "facedetection", "{8B63DA31-E1E2-43DC-8D77-74BD2FB74AEF}"
+	ProjectSection(SolutionItems) = preProject
+		jQuerySamples\assets\js\facedetection\ccv.js = jQuerySamples\assets\js\facedetection\ccv.js
+		jQuerySamples\assets\js\facedetection\COPYING = jQuerySamples\assets\js\facedetection\COPYING
+		jQuerySamples\assets\js\facedetection\face.js = jQuerySamples\assets\js\facedetection\face.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,5 +225,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38276900-3096-496A-951C-1815ADBD0B21} = {A379869A-C93B-4CEB-B602-F699B3988AAE}
+		{E1D33BCA-8994-492C-955C-A7746F6A1BBF} = {38276900-3096-496A-951C-1815ADBD0B21}
+		{48232D1D-A154-4851-9656-C4A008A2CFEC} = {38276900-3096-496A-951C-1815ADBD0B21}
+		{5C64D77C-395A-486A-B524-C60C1A8572E4} = {38276900-3096-496A-951C-1815ADBD0B21}
+		{6E81D955-0F2C-4DE7-92F2-4ED66BDBD923} = {38276900-3096-496A-951C-1815ADBD0B21}
+		{F20CFA13-BCC1-4FBC-8FEF-21D567A2F29E} = {38276900-3096-496A-951C-1815ADBD0B21}
+		{CC571967-37D7-458D-A482-4FA4BD690EA0} = {5C64D77C-395A-486A-B524-C60C1A8572E4}
+		{8B63DA31-E1E2-43DC-8D77-74BD2FB74AEF} = {5C64D77C-395A-486A-B524-C60C1A8572E4}
 	EndGlobalSection
 EndGlobal
